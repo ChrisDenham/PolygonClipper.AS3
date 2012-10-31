@@ -1,4 +1,4 @@
-An AS3 Flash port of the marvelous Polygon Clipping library by Angus Johnson. 
+﻿An AS3 Flash port of the marvelous Polygon Clipping library by Angus Johnson. 
 http://www.angusj.com/delphi/clipper.php
 
 This AS3 port was created by Chris Denham <c.m.denham{-at-}gmail.com>
@@ -9,6 +9,7 @@ function correctly for simple examples tried so far. Also beware that this
 port only uses 32 bit integer arithmetic whereas the original C# code uses 
 64 and 128 bit integer arithmetic. This means you will need to restrict
 poly vertex coordinates for this implementation to 16 bit range.
+
 Suggestions for changes and fixes are welcomed, though not necessarily acted upon. ;-)
 
 This port was originally inspired by the AS3 Flash module written by 
