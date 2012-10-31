@@ -12,7 +12,7 @@ poly vertex coordinates for this implementation to 16 bit range.
 Suggestions for changes and fixes are welcomed, though not necessarily acted upon. ;-)
 
 This port was originally inspired by the AS3 Flash module written by 
-Ari Arnbj�rnsson <ari{-at-}flassari.is> that wraps the Clipper library 
+Ari Arnbjörnsson <ari{-at-}flassari.is> that wraps the Clipper library 
 more directly via Adobe Alchemy/FlasCC, which can be downloaded from:
 https://github.com/Flassari/as3clipper
 Ari's Alchemy based wrapper may offer more completeness and better performance, 
